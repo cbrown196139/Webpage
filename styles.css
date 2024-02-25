@@ -1,0 +1,71 @@
+.body-class {
+    background-color: #f8f6f6;
+}
+
+.header-class {
+    background-color: #9dd2f191;
+    color: #500f05;
+}
+
+.nav-class {
+    background-color: #2eb4d6;
+}
+
+.nav-class .nav-link-class {
+    color: #9c2679;
+    font-family: Verdana, sans-serif;
+}
+
+.nav-class .nav-link-class.active {
+    font-weight: bold;
+}
+
+.title-class {
+    color: #a83012;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.section-title-class {
+    color: #1da2fa;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.text-class {
+    color:#ad1616;
+    font-family: Verdana, sans-serif;
+}
+
+.image-class {
+    border: 7px solid #9b1b04;
+    border-radius: 7px;
+    max-width: 90%;
+    height: auto;
+}
+
+.form-class {
+    color: #d41919;
+    font-family: Verdana, sans-serif;
+}
+
+.button-class {
+    background-color: #0a97c2;
+    color: #FFFFFF;
+}
+
+.footer-class {
+    background-color: #e41f1f;
+}
+
+.footer-class .text-class {
+    color: #FFFFFF;
+}
+
+.faq-question-class {
+    font-family: Verdana, sans-serif;
+    color: #3f9be6;
+}
+
+.cite-class {
+    font-family: Verdana, sans-serif;
+    color: #f58c03fa;
+}
